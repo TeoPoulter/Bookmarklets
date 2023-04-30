@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1015037283004583998/1102224537153716364/image.png](https://cdn.discordapp.com/attachments/1015037283004583998/1102230193336221726/Add_a_subheading-removebg-preview.png)" width="500">
+  <img src="https://cdn.discordapp.com/attachments/1015037283004583998/1102230193336221726/Add_a_subheading-removebg-preview.png" width="500">
   <h1>BG's Bookmarklet Archive</h1>
 </div>
 
