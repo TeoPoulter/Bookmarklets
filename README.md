@@ -30,17 +30,3 @@ Each bookmarklet has a creator and they are credited below.
 To add a bookmarklet, copy the code in the code box by pressing the "Copy Raw Contents" button, right click on your Bookmarks bar, click "Add Page", name it whatever you want, and in the URL box, paste the code you copied.
 
 To use a bookmarklet, simply click on the bookmark that you have saved for it. The bookmarklet will then execute its JavaScript code on the current web page, and perform the action that it was designed for.
-
-## Bookmarklets
-
-| Name       | Author      | Function                                  |
-|------------|-------------|-------------------------------------------|
-| Bookmark1  | John Smith  | Adds a bookmark to the user's bookmark bar |
-| Bookmark2  | Jane Doe    | Removes a bookmark from the bookmark bar  |
-| Bookmark3  | Bob Johnson | Organizes bookmarks into folders           |
-| Bookmark1  | John Smith  | Adds a bookmark to the user's bookmark bar |
-| Bookmark2  | Jane Doe    | Removes a bookmark from the bookmark bar  |
-| Bookmark3  | Bob Johnson | Organizes bookmarks into folders           |
-| Bookmark1  | John Smith  | Adds a bookmark to the user's bookmark bar |
-| Bookmark2  | Jane Doe    | Removes a bookmark from the bookmark bar  |
-| Bookmark3  | Bob Johnson | Organizes bookmarks into folders           |
